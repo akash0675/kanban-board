@@ -1,0 +1,19 @@
+.logo {
+  height: 64px;
+  background: rgba(255,255,255,.2);
+  padding: 20px 76px;
+}
+
+.logo__image {
+  height: 100%;
+  width: 100%;
+}
+
+.add-project {
+  height: 32px;
+  margin: 16px;
+}
+
+.add-project__button {
+  width: 100%;
+}

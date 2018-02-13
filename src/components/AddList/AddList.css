@@ -1,0 +1,22 @@
+.add-list {
+  width: 270px;
+  margin: 0 5px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  display: inline-block;
+  vertical-align: top;
+  white-space: nowrap;
+  padding: 4px 8px;
+}
+
+.add-list__text {
+  padding-bottom: 8px;
+}
+
+.add-list__actions--cancel {
+  margin-left: 8px;
+}
+
+.add-list-button {
+  width: 100%;
+}

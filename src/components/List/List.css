@@ -1,0 +1,24 @@
+.list {
+  width: 270px;
+  margin: 0 5px;
+  height: 100%;
+  border-radius: 4px;
+  background-color: #f0f2f5;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  display: inline-block;
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+.list-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px 8px;
+}
+
+.list-name {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 32px;
+}

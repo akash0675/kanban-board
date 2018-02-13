@@ -1,0 +1,1 @@
+export const BaseEndpointUrl = 'https://demo4488204.mockable.io';

@@ -1,0 +1,15 @@
+.add-card {
+  padding: 8px;
+}
+
+.add-card__text {
+  padding-bottom: 8px;
+}
+
+.add-card__actions--cancel {
+  margin-left: 8px;
+}
+
+.add-card-button {
+  width: 100%;
+}

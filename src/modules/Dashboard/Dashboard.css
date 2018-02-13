@@ -1,0 +1,13 @@
+.dashboard-layout {
+  height: 100%;
+}
+
+.list-spacer {
+  width: 24px;
+}
+
+.board-canvas {
+  position: relative;
+  flex-grow: 1;
+}
+

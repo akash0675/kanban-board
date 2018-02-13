@@ -1,0 +1,17 @@
+.header-wrapper {
+  background-color: #fff !important;
+  padding: 0px !important;
+}
+
+.header {
+  padding: 0 12px 0 0;
+  float: right;
+}
+
+.action {
+  padding: 0px 12px;
+}
+
+.action > span {
+  margin-right: 6px;
+}

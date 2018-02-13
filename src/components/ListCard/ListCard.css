@@ -1,0 +1,15 @@
+.list-card {
+  margin: 8px;
+  background-color: #fff;
+}
+
+.list-card__task {
+  padding: 8px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  white-space: normal
+}
+
+.list-card__action {
+  padding: 0px 8px 8px 8px;
+}
